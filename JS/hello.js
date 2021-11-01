@@ -1,1 +1,0 @@
-alert("Chào mừng các bạn đến với trang web của mình");
